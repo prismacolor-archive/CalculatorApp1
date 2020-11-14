@@ -1,2 +1,2 @@
 # CalculatorApp1
-Calculator App in C++
+Calculator App built in C++
